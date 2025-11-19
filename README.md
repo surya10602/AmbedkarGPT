@@ -12,8 +12,7 @@ This is a command-line Q&A system that performs RAG (Retrieval Augmented Generat
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```bash
 
-## Run the main scipt:
+## Run the main scipt
 ```bash
 python main.py
