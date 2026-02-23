@@ -1,4 +1,4 @@
-# AmbedkarGPT - Intern Task
+# AmbedkarGPT
 
 This is a command-line Q&A system that performs RAG (Retrieval Augmented Generation) on a speech by Dr. B.R. Ambedkar.
 
